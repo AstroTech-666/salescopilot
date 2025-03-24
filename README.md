@@ -1,7 +1,7 @@
 <p align="center">
   <video width="70%" controls>
     <source src="healthcare.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+    100X Your Healthcare Admin with Virtual Workforce Demo
   </video>
 </p>
 
