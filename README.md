@@ -8,7 +8,7 @@
 # 🚀 SalesCopilotPro - Your Open-Source AI Sales Agent
 ---
 
-**SalesGPT** is revolutionizing the way businesses sell with an AI-powered sales agent that can handle voice, email, and text communications! Whether you're chatting on SMS, WhatsApp, WeChat, or even voice calls, SalesCopilotPro is here to boost your sales game. And the best part? It's *context-aware*, meaning it understands exactly where you are in the conversation and tailors its responses accordingly.
+**SalesCopilotPro** is revolutionizing the way businesses sell with an AI-powered sales agent that can handle voice, email, and text communications! Whether you're chatting on SMS, WhatsApp, WeChat, or even voice calls, SalesCopilotPro is here to boost your sales game. And the best part? It's *context-aware*, meaning it understands exactly where you are in the conversation and tailors its responses accordingly.
 
 ### What’s New:
 🔥 **AI Sales Agents now ACTUALLY sell!**  
