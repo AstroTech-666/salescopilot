@@ -1,0 +1,30 @@
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.frontend
+    volumes:
+      - ./frontend:/usr/src/app
+    container_name: frontend
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+    env_file:  # Remove the .env.fe reference
+      - .env  # Use .env file for frontend as well
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    stdin_open: true
+    tty: true
+    
+  backend:
+    build:
+      context: ./
+      dockerfile: Dockerfile.backend
+    volumes:
+      - .:/app
+    container_name: backend
+    env_file:
+      - .env  # Backend will also use the .env file
+    ports:
+      - "8000:8000"
