@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="healthcare.mp4" alt="Gesture Drawing in Action" width="70%">
+  <img src="healthcare.mp4" alt="100X Your Healthcare Admin with Virtual Workforce" width="70%">
 </p>
 
 # 🚀 SalesCopilotPro - Your Open-Source AI Sales Agent
