@@ -1,7 +1,6 @@
-<video width="320" height="240" controls>
-  <source src="healthcare.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+  <img src="healthcare.mp4" alt="Gesture Drawing in Action" width="70%">
+</p>
 
 # 🚀 SalesCopilotPro - Your Open-Source AI Sales Agent
 ---
