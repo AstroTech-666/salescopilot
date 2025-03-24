@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="healthcare.mp4" alt="100X Your Healthcare Admin with Virtual Workforce" width="70%">
+  <video width="70%" controls>
+    <source src="healthcare.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 # 🚀 SalesCopilotPro - Your Open-Source AI Sales Agent
